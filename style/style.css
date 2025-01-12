@@ -112,3 +112,43 @@ background-color:#F7EBCF;
     background-color: #FFC239;
 }
 
+/* satelite */
+
+.sec-three{
+    margin-top: 80px;
+}
+.sec-three h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.news{
+    display: flex;
+    gap: 32px;
+    margin-bottom: 24px;
+    box-shadow:0 6px 50px 0 rgba(0, 0, 0, 0.06) ;
+    padding: 64px 48px;
+    border-radius: 24px;
+}
+.news button{
+    padding: 13px 26px;
+    background-color: #006A50;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #ffffff;
+    border-style: none;
+}
+.pic img{
+    border-radius: 24px;
+}
+.content h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+
+.all-p{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}

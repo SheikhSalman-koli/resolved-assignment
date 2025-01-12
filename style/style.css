@@ -152,3 +152,62 @@ background-color:#F7EBCF;
     font-size: 16px;
     color: rgba(14, 14, 14, 0.7);
 }
+
+/*donate today*/
+.sec-four{
+    margin-top: 80px;
+    padding: 0px 104px;
+}
+.sec-four h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    text-align: center;
+}
+.sec-four p{
+    text-align: center
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.parent p{
+    background-color: #ffffff;
+    border-radius: 16px;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+    border: 1px solid #D5D6D8;
+}
+.parent p:nth-child(2){
+    background-color: #C6E4D6;
+}
+.put input{
+    display: block;
+    width: 1032px;
+    height: 64px;
+    border-style: none;
+    border-bottom: 1px solid #D5D6D8;
+}
+.put input[type="text"]{
+    text-align: center;
+}
+.put{
+    display: flex;
+    justify-content: center;
+}
+.btn button{
+    padding: 17px 34px;
+    background-color: #006A50;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #ffffff;
+    border-style: none;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 31px;
+}

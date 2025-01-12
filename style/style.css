@@ -38,3 +38,77 @@
     border-radius: 8px;
     border-style: none;
 }
+
+/*vision*/
+
+.sec-tow{
+    margin-top: 80px;
+}
+.sec-tow h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.sec-tow p{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.sec-tow .card-holder{
+    display: flex;
+    gap: 24px;
+}
+.card-h{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-p{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+}
+
+.card-holder .card-1{
+    background-color:rgba(84, 144, 245, 0.2);
+    padding: 32px;
+    border-radius: 16px;
+}
+.card-1 button{
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+    border-radius: 8px;
+    border-style: none;
+    padding: 11px 20px;
+    background-color: #5490F5;
+}
+
+.card-holder .card-2{
+    background-color:#C6E4D6;
+    padding: 32px;
+    border-radius: 16px;
+}
+.card-2 button{
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+    border-radius: 8px;
+    border-style: none;
+    padding: 11px 20px;
+    background-color: #09A15C;
+}
+
+.card-holder .card-3{
+background-color:#F7EBCF;
+    padding: 32px;
+    border-radius: 16px;
+}
+.card-3 button{
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+    border-radius: 8px;
+    border-style: none;
+    padding: 11px 20px;
+    background-color: #FFC239;
+}
+

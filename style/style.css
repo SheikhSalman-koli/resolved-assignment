@@ -71,6 +71,7 @@
     background-color:rgba(84, 144, 245, 0.2);
     padding: 32px;
     border-radius: 16px;
+    border: 1px solid #D5D6D8;
 }
 .card-1 button{
     font-size: 16px;
@@ -86,6 +87,7 @@
     background-color:#C6E4D6;
     padding: 32px;
     border-radius: 16px;
+    border: 1px solid #D5D6D8;
 }
 .card-2 button{
     font-size: 16px;
@@ -101,6 +103,7 @@
 background-color:#F7EBCF;
     padding: 32px;
     border-radius: 16px;
+    border: 1px solid #D5D6D8;
 }
 .card-3 button{
     font-size: 16px;
@@ -218,7 +221,7 @@ background-color:#F7EBCF;
     background-color:#C6E4D6 ;
     border-radius:24px ;
     margin-top: 80px;
-    margin-bottom: 50px;
+   
 }
 .t-center{
     text-align: center;
@@ -251,3 +254,34 @@ background-color:#F7EBCF;
     color: #ffffff;
     border-style: none;
 }    
+
+/* hover effect */
+button:hover{
+    cursor: pointer;
+    background-color:  chartreuse;
+    color: crimson;
+    transition: 0.5s;
+    font-size: 20px;
+    box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06) ;;
+}
+.parent>p:hover{
+    cursor: pointer;
+    background-color: #FFC239;
+    transition: 0.5s;
+}
+p:hover{
+    cursor: pointer;
+}
+
+/* quote */
+.sec-six{
+    border: 1px solid #D5D6D8;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+    padding: 48px 24px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.sec-six img{
+    position: absolute;
+}

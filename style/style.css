@@ -211,3 +211,43 @@ background-color:#F7EBCF;
     justify-content: center;
     margin-top: 31px;
 }
+
+/*subscribe*/
+.sec-five{
+    padding: 80px 265px;
+    background-color:#C6E4D6 ;
+    border-radius:24px ;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.t-center{
+    text-align: center;
+}
+.sec-five h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.sec-five p{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7);
+}
+.redues{
+    display: flex;
+    justify-content: center;
+}
+.redues input[type="email"]{
+    padding: 18px 403px 18px 40px;
+    color: #FFFFFF;
+    border-radius: 8px 0px 0px 8px ;
+    border-style: none;
+}
+.redues button{
+    padding: 17px 34px;
+    background-color: #006A50;
+    border-radius: 0px 8px 8px 0px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #ffffff;
+    border-style: none;
+}    
